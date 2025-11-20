@@ -15,3 +15,5 @@
 - Weekly cases: https://github.com/owid/covid-19-data/blob/master/public/data/cases_deaths/weekly_cases.csv
 - MORE COVID DATA: https://github.com/CSSEGISandData/COVID-19
 
+## Finance 
+- 
