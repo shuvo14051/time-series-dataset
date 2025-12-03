@@ -1,4 +1,7 @@
 # Time-series-dataset
+- https://forecastingdata.org/
+- https://github.com/decisionintelligence/TFB/blob/master/docs/tutorials/steps_to_evaluate_your_own_time_series.md
+- 
 ## Energy
 - Australian Electricity (energy): https://www.kaggle.com/datasets/aramacus/electricity-demand-in-victoria-australia
 - ETTh1
@@ -16,4 +19,9 @@
 - MORE COVID DATA: https://github.com/CSSEGISandData/COVID-19
 
 ## Finance 
+## Weather
+## Retail
+## Sensor data
+## Transportation
+## 
 - 
